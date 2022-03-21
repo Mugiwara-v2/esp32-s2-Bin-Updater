@@ -7,5 +7,5 @@
 # esp32s3
 # esp32c3
 
-[Click me to Update your Esp!](https://mugiwara-v2.github.io/esp32-s2-Bin-Updater/)
+# [Click me to Update your Esp!](https://mugiwara-v2.github.io/esp32-s2-Bin-Updater/)
 
